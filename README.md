@@ -5,7 +5,7 @@ O projeto Calculadora de IMC foi desenvolvido durante o stage 05 no Explorer da 
 informações prestadas pelo usuaário. Somente são aceitos números, caso contrário, haverá um alerta de erro. <br/>
 
 <p align="center">
-  <img alt="projeto treine.me" src="./assets/preview.jpg" width="80%">
+  <img alt="imagem de uma calculadora de IMC, contendo os campos de peso e altura, além do botão para Calcular o IMC" src="./assets/preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias

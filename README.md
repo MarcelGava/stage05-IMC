@@ -1,8 +1,7 @@
 <h1 align="center"> Calculadora de IMC </h1>
 
 <p align="center">
-O projeto Calculadora de IMC foi desenvolvido durante o stage 05 no Explorer da Rocketseat. O projeto tem como objetivo desenvolver uma calculadora de IMC, conforme 
-informações prestadas pelo usuaário. Somente são aceitos números, caso contrário, haverá um alerta de erro. <br/>
+O projeto Calculadora de IMC foi desenvolvido durante o stage 05 no Explorer da Rocketseat. O projeto tem como objetivo realizar o cálculo do IMC, conforme informações prestadas pelo usuário. Somente são aceitos números, caso contrário, haverá um alerta de erro. <br/>
 
 <p align="center">
   <img alt="imagem de uma calculadora de IMC, contendo os campos de peso e altura, além do botão para Calcular o IMC" src="./assets/preview.png" width="80%">
